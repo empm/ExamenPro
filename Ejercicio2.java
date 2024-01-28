@@ -83,10 +83,30 @@ public class Ejercicio2 {
          * +1 si la nota mitjana de l'alumne passat com a paràmetre és major
          */
 
-         public void comparaNotes(Alumne a){
+        public void comparaNotes(Alumne a) {
             // eperez: duda - hay un metodo compareTo (devuelve 0, 1 y -1)
-            
-         }
+
+        }
 
     }
+
+    
+    /**
+     * Realitzar una aplicació de nom AppAlumne que utilitzant la classe Alumne
+     * definida anteriorment:
+     * 
+     * • (0.5p) Instàncie dos objectes de la classe Alumne les dades del qual se
+     * sol·liciten a l'usuari
+     * • (0.5p) Mostre les dades de l'alumne amb nota mitjana més alta
+     */
+    public class AppAlumne {
+        public static void main(String[] args) {  
+            
+        }
+     }
+     
 }
+
+
+
+
