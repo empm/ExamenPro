@@ -1,5 +1,5 @@
 package ExamenB;
-
+/* 
 public class Ejercicio2 {
     /* ------ a ------ */
     /**
@@ -39,6 +39,10 @@ public class Ejercicio2 {
             else
                 this.numMatricula = 999999;
 
+        }
+
+        public Alumne(String string) {
+            //TODO Auto-generated constructor stub
         }
 
         /**
@@ -90,7 +94,7 @@ public class Ejercicio2 {
     }
 
 
-    /* ------ b ------ */
+    /* ------ b ------ 
     /**
      * Realitzar una aplicació de nom AppAlumne que utilitzant la classe Alumne
      * definida anteriorment:
@@ -98,7 +102,7 @@ public class Ejercicio2 {
      * • (0.5p) Instàncie dos objectes de la classe Alumne les dades del qual se
      * sol·liciten a l'usuari
      * • (0.5p) Mostre les dades de l'alumne amb nota mitjana més alta
-     */
+     *
     public class AppAlumne {
         public static void main(String[] args) {
             Alumne jose = new Alumne(12345, "José");
@@ -108,7 +112,8 @@ public class Ejercicio2 {
 
         }
     }
-    /* ------ b ------ */
+    /* ------ b ------ 
 
     
 }
+ */
